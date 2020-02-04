@@ -4,5 +4,13 @@
 # Dependency directories
 /node_modules
 
+/web/.env.production
+.env
+.env.local
+.env.local
+
+
 # lerna files
 /lerna-debug.log
+
+web/.env.development.template
